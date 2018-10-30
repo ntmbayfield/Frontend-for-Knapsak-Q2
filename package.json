@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/ntmbayfield/Frontend-for-Knapsak-Q2/issues"
   },
-  "homepage": "https://github.com/ntmbayfield/Frontend-for-Knapsak-Q2#readme"
+  "homepage": "https://github.com/ntmbayfield/Frontend-for-Knapsak-Q2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "http-errors": "^1.7.1",
+    "knex": "^0.15.2",
+    "morgan": "^1.9.1",
+    "path": "^0.12.7"
+  }
 }

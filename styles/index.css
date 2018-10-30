@@ -1,0 +1,164 @@
+/*    HEADER STYLING      */
+.nav {
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+}
+
+li .navbar-btn {
+  margin-top: 15px;
+}
+
+.navbar-default {
+  background: #f5e946;
+}
+
+#signInButtonFromNav {
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+#navbar-container-div {
+  background: #khaki;
+  align: center;
+  height: 102px;
+  display: inline;
+  padding: 0px;
+  margin:: 0px;
+}
+
+#navbar-logo {
+	height: 102px;
+}
+
+.navbar-right {
+  margin-right: -15px;
+}
+
+.navbar-btn {
+  margin-top: 15px;
+  margin-bottom: 8px;
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#header-element-div {
+  background-color: khaki;
+  height: 102px;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+
+/*    INDEX-PAGE-DIV STYLING    */
+#logoImgForIndexDiv {
+  width: 550px;
+  height: 450px;
+  margin: auto;
+  pading: 20px;
+}
+
+#index-ul {
+  height: 800px;
+}
+
+div {
+  display: inline;
+}
+
+div.itemCards {
+  display: inline;
+  float: right;
+  border: 3px solid block;
+  width: 400px;
+  height: 400px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 50%;
+    display: inline;
+    float: right;
+    border: 3px solid black;
+}
+
+.cards {
+  display: inline;
+  float: right;
+  border: 3px solid black;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.btn_container {
+    padding: 2px 22px;
+    display: block;
+    text-align: center;
+}
+
+.card button {
+	  display: inline;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+p.itemNameNodes {
+  display: block;
+  text-align: center;
+}
+
+p {
+  display: inline;
+}
+
+.name_of_clothing_item {
+	display: block;
+	text-align: center;
+}
+
+.btn {
+	  display: inline;
+    align: center;
+    margin: auto;
+}
+
+#index-ul {
+  background: green;
+}
+
+/*DASHBOARD STYLING FOR SAVED KNAPSAKS*/
+#hidden-knapsak-area {
+  display: inline;
+}
+
+.svdtxtnode {
+  display: block;
+  align: center;
+  margin: auto;
+}
+
+.svdimgnode {
+  align: center;
+  margin: auto;
+}
+
+.svdknskcard {
+  display: inline;
+  align: left;
+  margin: 20px;
+  height: 310px;
+  width: 310px;
+}
